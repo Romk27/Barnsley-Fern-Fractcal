@@ -56,7 +56,9 @@ green-to-lime gradient.
 ## Student Name and Registration Number
 
 **Romaisa Kashif**
+
 Registration No: 552737
+
 BS Computer Science, NUST
 
 
