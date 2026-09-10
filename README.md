@@ -1,8 +1,8 @@
-# Barnsley Fern — Fractal Design Lab
+# Barnsley Fern - AI Lab
 
 An animated Barnsley Fern generated in Python using the **chaos game**
 (an Iterated Function System). The fern is drawn point-by-point with a
-colour gradient from deep forest green at the base to bright lime at
+colour gradient from dark green at the base to yellow at
 the tips, on a black background.
 
 ![Barnsley Fern](fern_static.png)
@@ -56,10 +56,7 @@ green-to-lime gradient.
 ## Student Name and Registration Number
 
 **Romaisa Kashif**
-Registration No: *<add your reg number>*
+Registration No: 552737
 BS Computer Science, NUST
 
-## Academic Integrity
 
-Original implementation written for Design Lab 01 — Designing Using
-Fractals. Built with NumPy and Matplotlib (open-source, credited above).
