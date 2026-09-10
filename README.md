@@ -9,9 +9,9 @@ the tips, on a black background.
 
 ![Growth animation](fern_growth.gif)
 
-## Fractal Type(s) Implemented
+## Fractal Type Implemented
 
-**Barnsley Fern** — a self-similar fractal produced by repeatedly
+**Barnsley Fern** is a self-similar fractal produced by repeatedly
 applying one of four randomly-chosen affine transformations to a
 point, with probabilities tuned so the result resembles a real fern
 (Michael Barnsley, 1988).
@@ -19,9 +19,9 @@ point, with probabilities tuned so the result resembles a real fern
 ## Tools, Languages & Libraries Used
 
 - **Python 3**
-- **NumPy** — vectorised random transformation choices
-- **Matplotlib** — rendering and animation (`FuncAnimation`)
-- **FFmpeg** — encoding the growth animation to `.mp4`
+- **NumPy** - vectorised random transformation choices
+- **Matplotlib** - rendering and animation (`FuncAnimation`)
+- **FFmpeg** - encoding the growth animation to `.mp4`
 
 ## Setup & Run Instructions
 
